@@ -1,0 +1,16 @@
+{
+  "name": "328/Monsters",
+  "authors": [
+    {
+      "name": "Matt Barry",
+      "email": "mbarry5@mail.greenriver.edu"
+    },
+    {
+      "name":"Guangpeng Wu",
+      "email":"Gwu2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
